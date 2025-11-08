@@ -28,4 +28,4 @@ I'm **Simen Førdestrøm Verhoeven**, a master's student at **NTNU Trondheim** p
 </div>
 
 --- 
-Feel free to browse through the **Cogito** folder — it contains my work from internal courses and project groups, highlighting what I’ve contributed to and learned along the way.
+Feel free to browse through the **[Cogito folder](https://github.com/Simenfv/Simenfv/tree/main/Cogito)** — it contains my work from internal courses and project groups, highlighting what I’ve contributed to and learned along the way.

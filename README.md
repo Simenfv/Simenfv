@@ -2,7 +2,7 @@
 
 I'm **Simen Førdestrøm Verhoeven**, a master's student at **NTNU Trondheim** passionate about **Artificial Intelligence**, **Machine Learning**, and the intersection between **technology and business**. I enjoy working on data-driven projects, learning new tools, and collaborating with others who share an interest in AI innovation.  
 
-- **Interests:**
+- **💡 Interests:**
     - Artifical Intelligence, Machine Learning and programming in general 
     - Sports and social activities  
 - **🏦 Education:**

@@ -3,7 +3,7 @@
 I'm **Simen Førdestrøm Verhoeven**, a master's student at **NTNU Trondheim** passionate about **Artificial Intelligence**, **Machine Learning**, and the intersection between **technology and business**. I enjoy working on data-driven projects, learning new tools, and collaborating with others who share an interest in AI innovation.  
 
 - **💡 Interests:**
-    - Artifical Intelligence, Machine Learning and programming in general 
+    - Artificial Intelligence, Machine Learning and programming in general 
     - Sports and social activities  
 - **🏦 Education:**
     - I'm a student at **NTNU Trondheim** 
@@ -19,11 +19,9 @@ I'm **Simen Førdestrøm Verhoeven**, a master's student at **NTNU Trondheim** p
       <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python"     width="75" height="95"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg" alt="pytorch" width="75" height="75"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"  width="95" height="75"/>
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="Typescript"     width="95" height="95"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow"     width="95" height="95"/>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"     width="95" height="95"/>
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite"     width="95" height="95"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JS"     width="95" height="95"/>
 
 </div>
 

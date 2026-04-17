@@ -1,28 +1,30 @@
 ## Hi there 👋
 
-I'm **Simen Førdestrøm Verhoeven**, a master's student at **NTNU Trondheim** passionate about **Artificial Intelligence**, **Machine Learning**, and the intersection between **technology and business**. I enjoy working on data-driven projects, learning new tools, and collaborating with others who share an interest in AI innovation.  
+I'm **Simen F. Verhoeven**, a master's student at **NTNU Trondheim** passionate about **Artificial Intelligence**, **Machine Learning**, and the intersection between **technology and business**. 
 
-- **💡 Interests:**
-    - Artificial Intelligence, Machine Learning and programming in general 
-    - Sports and social activities  
+- **💡 Interests and hobbies:**
+    - Sports
+    - Being social
+    - Padel
 - **🏦 Education:**
     - I'm a student at **NTNU Trondheim** 
-    - Pursuing a masters degree in **Industrial Economics and Technology Management** (Indøk), specializing in **Artificial Intelligence**.
+    - Pursuing a masters degree in **Industrial Economics and Technology Management** (Indøk), specializing in **Artificial Intelligence**
 - **🤝 Student Organization Involvement**
     - I'm a project member at **[Cogito NTNU](https://www.cogito-ntnu.no/)** — Norway’s largest technical student organization focusing on **AI** and **Machine Learning**
-    - Currently working on **DeepTactics**, a project exploring **Reinforcement Learning in Trackmania**  
+    - Previously worked on **DeepTactics**, a project exploring **Reinforcement Learning in Trackmania**
+    - Currently working on a project doing **Data Analysis for TV2**
 
 
 <h2> 🧑‍💻 Technical skills </h2>
-<div align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java"           width="75" height="95"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python"     width="75" height="95"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg" alt="pytorch" width="75" height="75"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"  width="95" height="75"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow"     width="95" height="95"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"     width="95" height="95"/>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite"     width="95" height="95"/>
 
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="55"/>
 </div>
 
 --- 
